@@ -2,7 +2,7 @@
 
 const {menuAlien} = require('./aliens.js') 
 const {menuParty} = require('./baladas.js')
-const {menuCheckin} = require('./index-checkin.js')
+const {menuCheckin} = require('./check-in.js')
 
 const { rlp } = require('./readline-config.js')
 
