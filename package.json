@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index-1.js"
+    "start": "node menu-principal.js"
   },
   "keywords": [],
   "author": "",

@@ -1,7 +1,7 @@
 //Menu principal
 
-const {menuAlien} = require('./index-2.js') 
-const {menuParty} = require('./index-3.js')
+const {menuAlien} = require('./aliens.js') 
+const {menuParty} = require('./baladas.js')
 const {menuCheckin} = require('./index-checkin.js')
 
 const { rlp } = require('./readline-config.js')
